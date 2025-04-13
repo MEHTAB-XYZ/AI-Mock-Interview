@@ -16,12 +16,6 @@ This app helps you:
 - Firebase
 - TailwindCSS
 
-## Try It Out
-
-Visit [demo link] to test the application.
-
-*Note: You'll need to sign up for a free account to use the features.*
-
 ## Local Development
 
 1. Make sure you have Node.js and pnpm installed
